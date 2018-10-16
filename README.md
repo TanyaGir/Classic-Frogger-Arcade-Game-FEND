@@ -11,7 +11,7 @@ https://tanyagir.github.io/Classic-Frogger-Arcade-Game-FEND/
 
 # How to play the game on your own computer
 * Download or fork a copy of the files into a folder. Once that is done just launch the browser and use the command 
-CTRL-O to open the index.html file. This will open the game on the browser and is ready for you to play with.
+  CTRL-O to open the index.html file. This will open the game on the browser and is ready for you to play with.
 
 # Resources
 * https://discussions.udacity.com/t/a-study-in-javascript-frogger-arcade-game-clone/38871/5
